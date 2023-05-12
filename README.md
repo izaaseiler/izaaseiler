@@ -1,6 +1,6 @@
 ## Hi there! It's me, Iza 👩
 
-- 🌱 Currently learning JavaScript, Html e CSS
+- 🌱 Currently learning JavaScript, Html and CSS
 - 🎓 Student of systems analysis and development
 
 <div>
