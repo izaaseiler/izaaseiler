@@ -1,4 +1,4 @@
-## Hi there! I'm Iza. 👩
+## Hi there! Call me Iza. 👩
 
 - 🌱 Currently learning JavaScript, Html and CSS
 - 🎓 Student of systems analysis and development
