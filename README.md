@@ -7,6 +7,7 @@
   <a href="https://github.com/izaseiler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaaseiler&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaseiler&layout=compact&langs_count=16&theme-buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaaseiler&layout=compact&langs_counts=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
