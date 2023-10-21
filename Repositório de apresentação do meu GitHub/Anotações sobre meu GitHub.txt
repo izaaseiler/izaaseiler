@@ -1,0 +1,9 @@
+Onde encontro símbolos para colocar no meu código:
+https://devicon.dev/
+
+Onde encontro ícones para colocar no meu código:
+https://fonts.google.com/icons?selected=Material+Icons:label_important:
+
+Onde vejo emoticons:
+https://emojipedia.org/
+PS: No README eu posso buscar por emoticons somente digitando o tipo
