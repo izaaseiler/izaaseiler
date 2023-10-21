@@ -7,3 +7,5 @@ https://fonts.google.com/icons?selected=Material+Icons:label_important:
 Onde vejo emoticons:
 https://emojipedia.org/
 PS: No README eu posso buscar por emoticons somente digitando o tipo
+
+Realizar alterações pelo GitHub e atualizar o repositorio clonado pelo Git que está no meu local:
