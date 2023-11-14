@@ -23,7 +23,4 @@
 
 
 
-![Snake animation](https://github.com/izaaseiler/izaaseiler/blob/output/github-contribution-grid-snake.svg)
-
-
-[!readme](https://github-readme-stats.vercel.app/api/pin/?username=izaaseiler&repo=izaaseiler&theme=react)](https://github.com/izaaseiler/izaaseiler)
+![snake gif](https://github.com/izaaseiler/izaaseiler/blob/output/github-contribution-grid-snake.svg)
