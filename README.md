@@ -21,4 +21,7 @@
   <a href="https://instagram.com/izaaseiler" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+![snake animation](https://github.com/izaaseiler/izaaseiler/blob/output/github-contribution-grid-snake.svg)
 
+
+[!readme](https://github-readme-stats.vercel.app/api/pin/?username=izaaseiler&repo=izaaseiler&theme=react)](https://github.com/izaaseiler/izaaseiler)
