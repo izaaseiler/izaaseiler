@@ -23,4 +23,3 @@
 
 
 
-![snake gif](https://github.com/izaaseiler/izaaseiler/blob/output/github-contribution-grid-snake-dark.svg)
