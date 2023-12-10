@@ -20,7 +20,7 @@
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   <img align="center" height="35" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />     
 
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-github-community-for-software-building-and-testing-online-logo-shadow-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-shadow-tal-revivo"/>
+  <img width="30" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-github-community-for-software-building-and-testing-online-logo-shadow-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-shadow-tal-revivo"/>
     
 
           
