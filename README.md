@@ -1,4 +1,4 @@
-## Hi there! Call me Iza. 👩🏻
+## 👋🏽 Hi there! Call me Iza. 
 
 - 🌱 Currently learning programming logic and starting in the backend world.
 - 🎓 Student of systems analysis and development
