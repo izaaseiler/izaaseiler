@@ -2,6 +2,7 @@
 
 - 🌱 Currently learning programming logic and starting in the backend world.
 - 🎓 Student of systems analysis and development
+- 💬 Portuguese, German, English, Spanish
 
 <div>
   <a href="https://github.com/izaseiler">
