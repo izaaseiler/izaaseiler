@@ -1,8 +1,8 @@
 ## 👋🏽 Hi there! Call me Iza. 
 
 - 🌱 Currently learning to develop in different programming languages, learning more about technical support and data security.
-- 🎓 Management professional and software analysis and development student
-- 💬 Portuguese, German, English, Spanish
+- 🎓 Management professional and software analysis and development student.
+- 💬 Portuguese, German, English, Spanish.
 
 <div>
   <a href="https://github.com/izaseiler">
