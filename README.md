@@ -1,7 +1,7 @@
 ## 👋🏽 Hi there! Call me Iza. 
 
-- 🌱 Currently learning programming logic and starting in the backend world.
-- 🎓 Student of systems analysis and development
+- 🌱 Currently learning to develop in different programming languages, learning more about technical support and data security.
+- 🎓 Management professional and software analysis and development student
 - 💬 Portuguese, German, English, Spanish
 
 <div>
